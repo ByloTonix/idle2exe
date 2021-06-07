@@ -3,6 +3,7 @@
 
 ## Предупреждения:
 - Для работы программы необходим **Python 3.9.5 строго в C:\Program Files\Python39\** (выберите галочку "Install for all users" во время установки Python 3.9.5)
+(или в .bat из \Python39\Lib\idlelib указать пути к pythonw.exe и idle.pyw (1 - в папке Lib, 2 - в Lib\idlelib) 
 - Убедитесь, что вы используете **последнюю версию IDLE**
 - Windows 8.1 и старше не поддерживаются
 
