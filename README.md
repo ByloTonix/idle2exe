@@ -8,7 +8,10 @@
 
 ## В чём суть: 
 Exe-файл запускает из C:\Program Files\Python39\ среду IDLE. При этом, если выбрать этот EXE для открывания .py файлов по умолчанию, то у всех .py файлов будут соответственные иконки и запустить их можно будет двойным кликом.
-у
+
+Для конвертации .bat в .exe использовал программу от [Tokyoneon](https://github.com/tokyoneon/B2E), иконку из C:\Program Files\Python39\Lib\idlelib\Icons. 
+В папке C:\Program Files\Python39\Lib\idlelib\ есть .bat от самих разработчиков Python, но чтобы при конвертации .exe заработал, необходимо указать прямой путь к pythonw.exe и idle.pyw, или использовать мой .bat
+
 ## Использование:
 **Windows:**
 - Скачайте **.exe-файл** по **[ссылке](https://github.com/MatroCholo/IDLE-in-EXE/releases)**
