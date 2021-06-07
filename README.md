@@ -1,2 +1,17 @@
-# IDLE-in-EXE
-Custom Python 3.9 IDLE in one EXE file
+<h1 align="center">IDLE (exe), v3.9.0.1</h1>
+<h4 align="center">IDLE - официальная среда разработки для Python. Для удобного запуска .py файлов через "Открыть с помощью", был сделан EXE файл IDLE</h4>
+
+## Предупреждения:
+- Для работы программы необходим **Python 3.9.5 строго в C:\Programm Files\Python39\** (выберите галочку "Install for all users" во время установки Python 3.9.5)
+- Убедитесь, что вы используете **последнюю версию IDLE**
+- Windows 8.1 и старше не поддерживаются
+
+
+## Использование:
+**Windows:**
+- Скачайте **.exe-файл** по **[ссылке](https://github.com/MatroCholo/IDLE-in-EXE/releases)**
+- Запустите и/или в меню "Открыть с помощью" выберите скачанный exe-файл. Приятного использования)
+
+
+## Обратная связь:
+- Telegram: https://t.me/MatroCholo
