@@ -12,7 +12,7 @@
 
 - **Если Python 3.9.5 установлен в другой папке, то в файлах Python в папке \Lib\idlelib необходимо найти idle.bat. В нём нужно заменить CurrentDir на прямые пути к pythonw.exe и idle.pyw (1 - в папке Lib, 2 - в Lib\idlelib). Пример того, как должен выглядеть idle.bat, есть загрузках репозитория.**
 
-Для конвертации **.bat в .exe** можно использовать бесплатную программу от **[Tokyoneon](https://github.com/tokyoneon/B2E)**, а иконку взять из C:\Program Files\Python39\Lib\idlelib\Icons. В папке C:\Program Files\Python39\Lib\idlelib\ есть **idle.bat** от **самих разработчиков Python**, но чтобы при конвертации полученный .exe заработал, необходимо указать прямой путь к **pythonw.exe и idle.pyw**, или **использовать мой .bat**.
+Для конвертации **.bat в .exe** можно использовать программу от **[Tokyoneon](https://github.com/tokyoneon/B2E)**, а иконку взять из C:\Program Files\Python39\Lib\idlelib\Icons. В папке C:\Program Files\Python39\Lib\idlelib\ есть **idle.bat** от **самих разработчиков Python**, но чтобы при конвертации полученный .exe заработал, необходимо указать прямой путь к **pythonw.exe и idle.pyw**, или **использовать мой .bat**.
 
 ## Использование:
 **Windows:**
